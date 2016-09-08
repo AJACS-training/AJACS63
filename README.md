@@ -1,7 +1,7 @@
 # AJACS63(AJACS東女医大)
 
 ### 公式ウェブページ
-[統合データベース講習会:AJACS東女医大](http://events.biosciencedbc.jp/training/ajacs63)
+[統合データベース講習会:AJACS東女医大](http://events.biosciencedbc.jp/training/ajacs63)  
 
 ### 開催概要
 統合データベース講習会:AJACSは、生命科学系のデータベースやツールの使い方、データベースを統合する活動を紹介する初心者向けの講習会です。  
@@ -14,7 +14,7 @@
 2016年9月12日(月)10:30～17:10  
 
 ### 会場
-東京女子医科大学TWIns 2階会議室  
+東京女子医科大学 TWIns 2階会議室  
 (東京都新宿区河田町8-1)  
 
 ### プログラム
